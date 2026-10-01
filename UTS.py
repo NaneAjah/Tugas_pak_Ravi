@@ -10,7 +10,7 @@ def kali(a, b):
 def bagi(a, b):
     return a / b
 
-a = int(input("Pertama : "))
+a = int(input("Pertama cihuy : "))
 b = int(input("Kedua : "))
 
 print(f"{a} + {b} = {tambah(a, b)}")
@@ -18,4 +18,4 @@ print(f"{a} - {b} = {kurang(a, b)}")
 print(f"{a} * {b} = {kali(a, b)}")
 print(f"{a} / {b} = {bagi(a, b)}")
 
-# update 1.1{nizar}git
+# update 1.1{nizar}
