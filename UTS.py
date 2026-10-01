@@ -18,4 +18,4 @@ print(f"{a} - {b} = {kurang(a, b)}")
 print(f"{a} * {b} = {kali(a, b)}")
 print(f"{a} / {b} = {bagi(a, b)}")
 
-# update 1.4{nizar}
+# update 2.0{nizar}
